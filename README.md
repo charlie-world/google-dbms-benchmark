@@ -1,2 +1,1 @@
-# google-dbms-benchmark
-Google Cloud Platform DBMS Benchmark
+# My project's README
